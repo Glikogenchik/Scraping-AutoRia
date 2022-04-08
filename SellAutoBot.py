@@ -1,7 +1,7 @@
 import telebot
 from config import token
 from telebot import types
-import random jjjjjjjj
+import random
 # from telegram import Updater
 
 
